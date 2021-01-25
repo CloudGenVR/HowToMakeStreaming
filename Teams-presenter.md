@@ -36,7 +36,7 @@ Teams live event require only desktop application on Windows operating system. N
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/06.png)
 
-Enable microphone and disable cam. We don't use cam for streaming. We use only first desktop monitor.
+Enable microphone and disable cam. We don't share cam on live. Only Desktop share
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/07.png)
 
