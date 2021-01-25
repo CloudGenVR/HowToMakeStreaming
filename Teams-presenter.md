@@ -31,11 +31,38 @@ Double click on calendar event to enter in meeting intro page.
 Click on Join button to enter in meeting view and **SHARE PRIMARY MONITOR**
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/05.png)
+
+Teams live event require only desktop application on Windows operating system. No browser or mobile is accepted for presentation
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/06.png)
+
+Enable microphone and disable cam. We don't use cam for streaming. We use only first desktop monitor.
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/07.png)
+
+Check microphone and share display. Live event 
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/08.png)
+
+You can chat with producer and require assistance. We can share number of partecipant at the end of meeting.
+**You must check QnA section for question and answer at the end of you session.**
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/09.png)
+
+Share desktop
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/10.png)
+
+Check display share
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/11.png)
+
+Live started, you can start talk
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/12.png)
+
+End talk
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/13.png)
+
+you can download attendeed report and recording video
