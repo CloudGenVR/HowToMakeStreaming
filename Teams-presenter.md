@@ -14,16 +14,22 @@ Not allow device managment, uncheck please
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/01-b.png)
 
 
-Select calendar functions and find your live meeting. 
+Select calendar feature and find your live meeting. 
 There will be several scheduled meetings because the account will be shared among all the speakers on the track
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/02.png)
 
 if event have violet color, the producer who is waiting for you is already present in the event.
-If the event is light purple, the producer is still not present, please be patient until he arrives in the room
+If the event is light purple, the producer is still not present, please be patient until he arrives in the room. you must try to enter in live meeting, then wait.
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/03.png)
+
+Double click on calendar event to enter in meeting intro page.
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/04.png)
+
+Click on Join button to enter in meeting view and **SHARE PRIMARY MONITOR**
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/05.png)
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/06.png)
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/07.png)
