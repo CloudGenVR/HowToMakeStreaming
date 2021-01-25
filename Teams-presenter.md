@@ -1,0 +1,16 @@
+# Teams Presenter/Speaker Guide
+
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/01.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/01-b.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/02.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/03.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/04.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/05.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/06.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/07.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/08.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/09.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/10.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/11.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/12.png)
+![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Presenter/13.png)
