@@ -36,10 +36,18 @@ Fai condividere lo schermo primario al presentatore. Cliccaci sopra per portarle
 Muta il presentatore e avvia il live 5 minuti prima della sessione.
 Spiega al presentatore che ti può contattare in chat per chiarimenti.
 Fornisci il numero delle persone massime che sono presenti nel live. Invia il numero a fine sessione.
+1. Il presenter deve condividere lo schermo. Quando lo fa, vedrete il rettangolo che mostra l'anteprima del suo schermo.
+2. Seleziona lo schermo del presentatore
+3. Invia il live sullo schermo di destra
+4. Lo schermo è in live
+5. Avvia la live
+Per mutare il presentatore è possibile farlo con la funzione *MUTE ALL* oppure selezionando il presentatore e premendo sull'icona del microfono.
+**come producer potrai solamente mutare un presentatore ma non potrai attivere il suo microfono**
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/08.png)
 
 Monitora la QnA e pubblica le domande. 
+Quando un attendee scrive una domanda, essa viene messa in **NEW**, selezionala e fai **PUBLISH** così tutti potranno vederla. E' importante che tutti possano vedere la domanda.
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/09.png)
 
