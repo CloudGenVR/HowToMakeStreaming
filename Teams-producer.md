@@ -51,7 +51,7 @@ Quando un attendee scrive una domanda, essa viene messa in **NEW**, selezionala 
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/09.png)
 
-Utilizza la chat per cominicare con il presentatore
+Utilizza la chat per cominicare con il presentatore. Per accedere la chat è necessario premere il 4 pulsante nella barra in alto sulla destra dello schermo.
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/10.png)
 
