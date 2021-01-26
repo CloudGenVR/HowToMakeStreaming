@@ -63,8 +63,13 @@ Conferma e avvia
 
 Verifica gli attendee, monitora la QnA e la chat.
 Bisogna sollecitare lo speaker a terminare in tempo, qualora non si riuscisse, comunicatelo con un messaggio audio.
-Terminate il live
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/14.png)
+
+Termina il live 
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/15.png)
+
+Il live è terminato
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/16.png)
