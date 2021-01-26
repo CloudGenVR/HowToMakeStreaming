@@ -42,10 +42,29 @@ Fornisci il numero delle persone massime che sono presenti nel live. Invia il nu
 Monitora la QnA e pubblica le domande. 
 
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/09.png)
+
+Utilizza la chat per cominicare con il presentatore
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/10.png)
+
+Non chiamare il presentatore perchè più speaker avranno lo stesso account. 
+Il link a disposizione ritorna solo informazioni per gli attendee.
+Se non riesci a contattare lo speaker, chiedi nella chat dei producer ed eventualmente scrivi una mail ai riferimenti a tua disposizione.
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/11.png)
+
+Premi start e avvia il live
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/12.png)
+
+Conferma e avvia
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/13.png)
+
+Verifica gli attendee, monitora la QnA e la chat.
+Bisogna sollecitare lo speaker a terminare in tempo, qualora non si riuscisse, comunicatelo con un messaggio audio.
+Terminate il live
+
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/14.png)
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/15.png)
 ![Teams Login](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/assets/Teams/Producer/16.png)
