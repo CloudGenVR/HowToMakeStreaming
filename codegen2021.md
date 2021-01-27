@@ -15,3 +15,18 @@ For urgent communications, contact the whatsapp group created specifically for t
 **Please, if you have valid office licence enterprise on your account you can change Teams Live Meeting account. Contact us**
 
 If you have question for this repo, please open issue and tag [@andreatosato](https://github.com/andreatosato) or write mail to associazione ( at ) cloudgen.it
+
+# Track/User 
+|  Track  |  Email | Password |
+|---|---|---|
+| Frontend  | frontend@cloudgen.it |  C0d3Gen2021 |
+| Blazor / UI | frontend@cloudgen.it |  C0d3Gen2021 |
+| .NET | backend@cloudgen.it |  C0d3Gen2021 |
+| Backend | backend@cloudgen.it |  C0d3Gen2021 |
+| Cross Coding | backend@cloudgen.it |  C0d3Gen2021 |
+| Coding AI | ai@cloudgen.it |  C0d3Gen2021 |
+| Architect | ai@cloudgen.it |  C0d3Gen2021 |
+| Long - Live Coding | livecoding@cloudgen.it |  C0d3Gen2021 |
+| Live Coding  | livecoding@cloudgen.it |  C0d3Gen2021 |
+
+After conference this accont will be destroyed
