@@ -32,4 +32,4 @@ If you have question for this repo, please open issue and tag [@andreatosato](ht
 | Long - Live Coding | livecoding@cloudgen.it |  C0d3Gen2021 |
 | Live Coding  | livecoding@cloudgen.it |  C0d3Gen2021 |
 
-After conference this accont will be destroyed
+After conference these accont will be destroyed
