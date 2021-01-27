@@ -9,6 +9,9 @@ The "producer", that is the person who will be with you in the live event, will 
 You can contact him via the Teams chat during the event and he will perform your on-boarding.
 [Live event guide](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/Teams-presenter.md)
 
+# Banners:
+You can [download](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/Teams-presenter.md) your banner for social adv.
+
 # Other informations:
 For any problem or doubt, we ask you to send an email to the association while during the live we ask you to contact your producer.
 For urgent communications, contact the whatsapp group created specifically for the event.
